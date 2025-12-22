@@ -80,12 +80,6 @@
 
   ---
 
-  ### GitHub Achievements
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ruperthjr&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-  ---
-
   ### Connect With Me
 
   <div align="center">
@@ -101,8 +95,4 @@
   </div>
 
   ---
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ruperthjr&style=flat-square&color=2E86AB" alt="Profile Views">
-  </p>
 </div>
