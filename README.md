@@ -1,6 +1,4 @@
 <div align="center">
-  ---
-
   ### GitHub Activity
 
   <div align="center">
